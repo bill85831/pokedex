@@ -1,24 +1,22 @@
-# pokeindex
 
-## Project setup
-```
-npm install
-```
+# vue pokedex
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+此專案運用到的技術有
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<ul>
+<li>Vue CLI的專案建立流程</li>
+<li>api串接--fetch應用</li>
+<li>router應用</li>
+<li>components的串接</li>
+<li>專案打包</li>
+</ul>
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://bill85831.github.io/pokedex/" target="_blank">https://bill85831.github.io/pokedex/</a>
+
+# 簡介
+
+從主頁點擊可切換至圖鑑頁面，縱軸下拉分批次載入圖鑑內容
+
+點擊該pokemon會顯示詳細資訊，運用搜尋框，可快速找到想要尋找的目標pokemon
